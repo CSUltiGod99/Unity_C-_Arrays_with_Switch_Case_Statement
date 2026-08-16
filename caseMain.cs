@@ -18,7 +18,7 @@ public class AdditArrays : MonoBehaviour
   {
     string[] wordMe = { "me", "myself", "i" };
 
-for (int i = 0; i < wordme.Length; i++)
+for (int i = 0; i < wordMe.Length; i++)
 {
    switch (wordme[i])
    {
